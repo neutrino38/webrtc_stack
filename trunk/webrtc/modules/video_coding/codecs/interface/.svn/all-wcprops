@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/interface
+END
+video_error_codes.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/interface/video_error_codes.h
+END
+video_codec_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/interface/video_codec_interface.h
+END

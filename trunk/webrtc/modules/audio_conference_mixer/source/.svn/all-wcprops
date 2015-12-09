@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source
+END
+audio_conference_mixer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_unittest.cc
+END
+time_scheduler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc
+END
+audio_conference_mixer_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc
+END
+time_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/time_scheduler.h
+END
+audio_conference_mixer.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer.gypi
+END
+audio_conference_mixer_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.h
+END
+memory_pool_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/memory_pool_win.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/Android.mk
+END
+level_indicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/level_indicator.cc
+END
+memory_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/memory_pool.h
+END
+level_indicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/level_indicator.h
+END
+memory_pool_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/memory_pool_posix.h
+END
+audio_frame_manipulator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc
+END
+audio_frame_manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.h
+END

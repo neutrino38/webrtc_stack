@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures
+END
+after_initialization_fixture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/after_initialization_fixture.cc
+END
+before_initialization_fixture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/before_initialization_fixture.cc
+END
+after_initialization_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/after_initialization_fixture.h
+END
+after_streaming_fixture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/after_streaming_fixture.cc
+END
+before_initialization_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/before_initialization_fixture.h
+END
+after_streaming_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/auto_test/fixtures/after_streaming_fixture.h
+END

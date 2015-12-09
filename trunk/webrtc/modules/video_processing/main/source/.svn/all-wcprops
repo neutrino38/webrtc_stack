@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source
+END
+video_decimator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/video_decimator.cc
+END
+video_decimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/video_decimator.h
+END
+frame_preprocessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/frame_preprocessor.cc
+END
+frame_preprocessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/frame_preprocessor.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/Android.mk
+END
+brighten.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/brighten.cc
+END
+brighten.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/brighten.h
+END
+brightness_detection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/brightness_detection.cc
+END
+spatial_resampler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/spatial_resampler.cc
+END
+brightness_detection.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/brightness_detection.h
+END
+spatial_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/spatial_resampler.h
+END
+content_analysis_sse2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/content_analysis_sse2.cc
+END
+content_analysis.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/content_analysis.cc
+END
+color_enhancement_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/color_enhancement_private.h
+END
+content_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/content_analysis.h
+END
+denoising.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/denoising.cc
+END
+denoising.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/denoising.h
+END
+color_enhancement.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/color_enhancement.cc
+END
+video_processing_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/video_processing_impl.cc
+END
+color_enhancement.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/color_enhancement.h
+END
+video_processing.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/video_processing.gypi
+END
+video_processing_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/video_processing_impl.h
+END
+deflickering.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/deflickering.cc
+END
+deflickering.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/source/deflickering.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/libtest
+END
+libtest.target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/libtest/libtest.target.mk
+END
+libtest.Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/libtest/libtest.Makefile
+END
+libtest.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/libtest/libtest.gyp
+END

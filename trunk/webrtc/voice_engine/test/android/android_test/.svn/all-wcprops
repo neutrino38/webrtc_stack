@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test/.project
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test/Android.mk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/voice_engine/test/android/android_test/AndroidManifest.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm
+END
+aecm_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_core.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/Android.mk
+END
+aecm_core_neon_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_core_neon_offsets.c
+END
+echo_control_mobile.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/echo_control_mobile.c
+END
+aecm_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_defines.h
+END
+aecm_core_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_core_neon.S
+END
+aecm_core_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_core_neon.c
+END
+aecm_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_processing/aecm/aecm_core.c
+END

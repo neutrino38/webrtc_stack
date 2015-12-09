@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/external
+END
+video_render_external_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/external/video_render_external_impl.cc
+END
+video_render_external_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/external/video_render_external_impl.h
+END

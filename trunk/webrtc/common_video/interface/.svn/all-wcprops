@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/interface
+END
+i420_video_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/interface/i420_video_frame.h
+END
+video_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/interface/video_image.h
+END

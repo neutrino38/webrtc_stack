@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android
+END
+video_render_android_native_opengl2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_native_opengl2.cc
+END
+video_render_android_native_opengl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_native_opengl2.h
+END
+video_render_opengles20.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_opengles20.cc
+END
+video_render_opengles20.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_opengles20.h
+END
+video_render_android_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_impl.cc
+END
+video_render_android_surface_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_surface_view.cc
+END
+video_render_android_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_impl.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/OWNERS
+END
+video_render_android_surface_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_render/android/video_render_android_surface_view.h
+END

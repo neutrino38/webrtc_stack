@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools
+END
+yuv_cropper.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/yuv_cropper.py
+END
+barcode_encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/barcode_encoder.py
+END
+build_zxing.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/build_zxing.py
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/DEPS
+END
+barcode_decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/barcode_decoder.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/README
+END
+helper_functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/tools/barcode_tools/helper_functions.py
+END

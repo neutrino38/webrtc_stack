@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video
+END
+i420_video_frame_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/i420_video_frame_unittest.cc
+END
+i420_video_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/i420_video_frame.cc
+END
+plane_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/plane_unittest.cc
+END
+plane.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/plane.cc
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/plane.h
+END
+common_video.target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/common_video.target.mk
+END
+common_video.Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/common_video.Makefile
+END
+common_video_unittests.target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/common_video_unittests.target.mk
+END
+common_video.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/common_video.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/common_video/OWNERS
+END

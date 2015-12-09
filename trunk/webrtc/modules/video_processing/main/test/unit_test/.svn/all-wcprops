@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test
+END
+writeYUV420file.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/writeYUV420file.m
+END
+readYUV420file.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/readYUV420file.m
+END
+denoising_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/denoising_test.cc
+END
+unit_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/unit_test.cc
+END
+content_metrics_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/content_metrics_test.cc
+END
+unit_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/unit_test.h
+END
+color_enhancement_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/color_enhancement_test.cc
+END
+createTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/createTable.m
+END
+brightness_detection_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/brightness_detection_test.cc
+END
+deflickering_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_processing/main/test/unit_test/deflickering_test.cc
+END

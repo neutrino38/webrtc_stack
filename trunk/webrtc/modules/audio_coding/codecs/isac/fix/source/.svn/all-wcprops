@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source
+END
+pitch_estimator.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_estimator.c
+END
+spectrum_ar_model_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/spectrum_ar_model_tables.c
+END
+filterbanks_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbanks_neon.S
+END
+pitch_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_estimator.h
+END
+spectrum_ar_model_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/spectrum_ar_model_tables.h
+END
+filterbanks.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbanks.c
+END
+lpc_masking_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_masking_model.c
+END
+pitch_filter_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_filter_armv6.S
+END
+filters_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filters_unittest.cc
+END
+filterbank_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbank_tables.c
+END
+lpc_masking_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_masking_model.h
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/structs.h
+END
+pitch_filter_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_filter_c.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/fft.c
+END
+filterbank_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbank_tables.h
+END
+arith_routines_logist.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/arith_routines_logist.c
+END
+decode_plc.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/decode_plc.c
+END
+lattice_armv7.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lattice_armv7.S
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/codec.h
+END
+filterbank_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbank_internal.h
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/decode.c
+END
+pitch_lag_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_lag_tables.c
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/fft.h
+END
+lattice_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lattice_neon.S
+END
+arith_routines_hist.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/arith_routines_hist.c
+END
+isacfix.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/isacfix.c
+END
+lattice_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lattice_c.c
+END
+pitch_lag_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_lag_tables.h
+END
+bandwidth_estimator.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/bandwidth_estimator.c
+END
+pitch_gain_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_gain_tables.c
+END
+arith_routins.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/arith_routins.h
+END
+arith_routines.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/arith_routines.c
+END
+bandwidth_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/bandwidth_estimator.h
+END
+initialize.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/initialize.c
+END
+pitch_gain_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_gain_tables.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/Android.mk
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/settings.h
+END
+filterbanks_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filterbanks_unittest.cc
+END
+lpc_masking_model_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_masking_model_neon.S
+END
+filters_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filters_neon.S
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/filters.c
+END
+lpc_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_tables.c
+END
+lpc_masking_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_masking_model_unittest.cc
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/transform.c
+END
+isacfix.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/isacfix.gypi
+END
+pitch_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/pitch_filter.c
+END
+lpc_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lpc_tables.h
+END
+decode_bwe.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/decode_bwe.c
+END
+entropy_coding.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/entropy_coding.c
+END
+lattice.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/lattice.c
+END
+entropy_coding.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/entropy_coding.h
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/audio_coding/codecs/isac/fix/source/encode.c
+END

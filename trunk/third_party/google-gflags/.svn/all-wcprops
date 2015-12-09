@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags/LICENSE
+END
+README.webrtc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags/README.webrtc
+END
+google-gflags.target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags/google-gflags.target.mk
+END
+google-gflags.Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags/google-gflags.Makefile
+END
+google-gflags.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/third_party/google-gflags/google-gflags.gyp
+END

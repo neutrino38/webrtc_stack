@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/video_engine/test/auto_test
+END
+vie_auto_test.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/video_engine/test/auto_test/vie_auto_test.gypi
+END

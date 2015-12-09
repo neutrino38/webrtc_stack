@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/vp8/include
+END
+vp8_common_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/vp8/include/vp8_common_types.h
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/vp8/include/vp8.h
+END

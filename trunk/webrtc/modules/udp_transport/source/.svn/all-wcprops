@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source
+END
+udp_socket2_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket2_windows.cc
+END
+udp_socket_manager_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_manager_wrapper.h
+END
+udp_socket2_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket2_windows.h
+END
+udp_socket_wrapper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_wrapper_unittest.cc
+END
+udp_socket_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_wrapper.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/Android.mk
+END
+udp_socket_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_wrapper.h
+END
+udp_transport_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_transport_unittest.cc
+END
+udp_socket_manager_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_manager_posix.cc
+END
+udp_socket_manager_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_manager_posix.h
+END
+udp_socket_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_posix.cc
+END
+udp_socket_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_posix.h
+END
+udp_transport_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_transport_impl.cc
+END
+udp_socket2_manager_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket2_manager_windows.cc
+END
+udp_transport_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_transport_impl.h
+END
+udp_transport.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_transport.gypi
+END
+udp_socket2_manager_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket2_manager_windows.h
+END
+traffic_control_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/traffic_control_windows.cc
+END
+udp_socket_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_manager_unittest.cc
+END
+udp_socket_manager_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/udp_socket_manager_wrapper.cc
+END
+traffic_control_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/udp_transport/source/traffic_control_windows.h
+END

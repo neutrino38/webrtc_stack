@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/fuzz/peerconnection/corpus
+END
+fuzz_sdp.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/fuzz/peerconnection/corpus/fuzz_sdp.js
+END
+template01.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/fuzz/peerconnection/corpus/template01.html
+END
+random.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/test/fuzz/peerconnection/corpus/random.js
+END

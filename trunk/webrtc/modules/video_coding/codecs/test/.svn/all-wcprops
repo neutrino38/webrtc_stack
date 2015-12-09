@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test
+END
+stats_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/stats_unittest.cc
+END
+stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/stats.cc
+END
+predictive_packet_manipulator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/predictive_packet_manipulator.cc
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/stats.h
+END
+packet_manipulator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/packet_manipulator_unittest.cc
+END
+packet_manipulator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/packet_manipulator.cc
+END
+predictive_packet_manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/predictive_packet_manipulator.h
+END
+packet_manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/packet_manipulator.h
+END
+video_codecs_test_framework.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/video_codecs_test_framework.gypi
+END
+videoprocessor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/videoprocessor_unittest.cc
+END
+videoprocessor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/videoprocessor.cc
+END
+videoprocessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/videoprocessor.h
+END
+videoprocessor_integrationtest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/videoprocessor_integrationtest.cc
+END

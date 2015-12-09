@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/mock
+END
+mock_packet_manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/video_coding/codecs/test/mock/mock_packet_manipulator.h
+END

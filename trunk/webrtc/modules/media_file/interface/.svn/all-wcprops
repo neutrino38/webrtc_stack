@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/media_file/interface
+END
+media_file_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/media_file/interface/media_file_defines.h
+END
+media_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-libs-dev/!svn/ver/3615/webrtc/tags/0.0.1/webrtc/modules/media_file/interface/media_file.h
+END
