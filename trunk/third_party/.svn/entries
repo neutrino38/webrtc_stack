@@ -1,61 +1,0 @@
-10
-
-dir
-6284
-http://svn.ives.fr/svn-libs-dev/webrtc/tags/0.0.1/third_party
-http://svn.ives.fr/svn-libs-dev
-
-
-
-2013-05-04T23:53:45.177548Z
-4444
-ebuu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4a32156a-8e32-406b-b38d-595c535062e7
-
-protobuf
-dir
-
-expat
-dir
-
-winsdk_samples
-dir
-
-libvpx
-dir
-
-gold
-dir
-
-opus
-dir
-
-libjpeg_turbo
-dir
-
-yasm
-dir
-
-libyuv
-dir
-
-libjpeg
-dir
-
-google-gflags
-dir
-
