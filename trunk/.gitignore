@@ -1,5 +1,4 @@
 *.Makefile
-*.host.mk
 *.ncb
 *.ninja
 *.props
@@ -9,7 +8,6 @@
 *.sdf
 *.sln
 *.suo
-*.target.mk
 *.targets
 *.user
 *.vcproj
