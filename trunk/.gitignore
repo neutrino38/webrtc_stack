@@ -30,6 +30,3 @@
 .project
 .pydevproject
 .settings
-/build
-/chromium_deps
-/google_apis/build
